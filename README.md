@@ -40,7 +40,7 @@ Always curious. Always learning. Always finding ways to make things better. 🌱
 
 🐙 GitHub: Explore my repositories
 
-Stay curious enough to question, brave enough to explore, disciplined enough to act, and kind enough to help others along the way. 🌍 Curious Mind. Meaningful Actions. Grateful Heart. 💚
+*Stay curious enough to question, brave enough to explore, disciplined enough to act, and kind enough to help others along the way. 🌍 Curious Mind. Meaningful Actions. Grateful Heart. 💚*
 
 Thanks for stopping by! Keep learning, keep exploring, and keep making a difference. 🚀
 <!--
