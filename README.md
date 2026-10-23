@@ -1,5 +1,3 @@
-<a href="https://github.com/shubhamlokhande85" target="_blank">View My GitHub Profile</a>
-
 
 ## Hey there, I'm Shubham Lokhande! 👋
 
