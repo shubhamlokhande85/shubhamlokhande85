@@ -1,5 +1,5 @@
 
-![Profile Views](https://hits.sh/github.com/shubhamlokhande85.svg?label=Profile%20Views)
+
 
 
 ## Hey there, I'm Shubham Lokhande! 👋
@@ -47,6 +47,8 @@ Always curious. Always learning. Always finding ways to make things better. 🌱
 💡 Exploring opportunities to solve real-world business problems with data.
 
 🤝 Open to Data Analyst opportunities, collaborations, and new learning experiences.
+
+![Profile Views](https://hits.sh/github.com/shubhamlokhande85.svg?label=Profile%20Views)
 
 🤝 Let's Connect!
 
