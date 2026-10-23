@@ -1,4 +1,6 @@
-https://komarev.com/ghpvc/?username=shubhamlokhande85&label=Profile%20views&color=0e75b6&style=flat
+
+![Profile Views](https://komarev.com/ghpvc/?username=shubhamlokhande85&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
+
 
 ## Hey there, I'm Shubham Lokhande! 👋
 
