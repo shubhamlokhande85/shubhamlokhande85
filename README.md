@@ -1,5 +1,5 @@
 
-![Profile Views](https://komarev.com/ghpvc/?username=shubhamlokhande85&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
+![Profile Views](https://hits.sh/github.com/shubhamlokhande85.svg?label=Profile%20Views)
 
 
 ## Hey there, I'm Shubham Lokhande! 👋
